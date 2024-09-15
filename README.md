@@ -1,0 +1,1 @@
+THis project will contain all my codes for the progtech24 course (in Hungarian)xxxxxxxxxxxx
