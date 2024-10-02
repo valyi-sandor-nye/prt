@@ -7,7 +7,7 @@ public class HelloFromTwoPieces {
 
 
     private static String a() {
-        return "a";
+        return "A";
     }
 
     private static String b() {
