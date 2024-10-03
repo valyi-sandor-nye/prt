@@ -3,7 +3,7 @@ public class Main {
    System.out.println(a()+b());
   }
    static String a() {
-     return "a";
+     return "A";
     }
    static String b() {
      return "b";
